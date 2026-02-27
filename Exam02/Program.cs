@@ -10,7 +10,7 @@ namespace Exam02
         {
 
 
-            Console.WriteLine("TEST Changes");
+           
             Helper.InformationExam();
             
 
