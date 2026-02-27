@@ -8,11 +8,11 @@ namespace Exam02
 
         static void Main(string[] args)
         {
-      
 
 
+            Console.WriteLine("TEST Changes");
             Helper.InformationExam();
-
+            
 
 
 
