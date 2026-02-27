@@ -11,5 +11,5 @@ namespace Exam02
         int test = 20;
         string name = "Kermina Maged Matta";
         string xxx = "yyyyyyyy";
-    }
+        string change = "Kermina Kermina d;lajalkjaljdlakjd";    }
 }
